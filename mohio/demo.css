@@ -1,0 +1,13 @@
+html,
+body {
+    height: 100%;
+}
+
+body {
+    padding-top: 56px;
+}
+
+.container-fluid,
+.container-fluid>.row {
+    height: 100%;
+}
